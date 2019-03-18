@@ -1,0 +1,105 @@
+/* Sky Blue Color */
+
+    .headersection, .footersection {
+        background: #39B2A9 none repeat scroll 0 0;
+    }
+    .icon a {
+        background: #39B2F6 none repeat scroll 0 0;
+    }
+    .searchbtn input[type="text"] {
+        border: 1px solid #3CB1E9;
+        background: #3CB196;
+    }
+    .searchbtn input[type="submit"] {
+        border: 1px solid #3CB1E9;
+    }
+    input[type="submit"] {
+        background: #3CB1DF none repeat scroll 0 0;
+        border: 1px solid #3CB1E9;
+    }
+    .searchbtn input[type="submit"]:hover{
+	    background: #3CB196 none repeat scroll 0 0;
+	    border: 1px solid #3CB1E9;
+	    color:#fff;
+    }
+    .navsection {
+        background: none repeat scroll 0 0 #39B2F6 ;
+    }
+    .navsection ul li {
+        border-left: 1px solid #3EB095;
+        border-right: 1px solid #3EB095;
+}
+    .navsection ul li a {
+        color: #fff;
+    }
+    .navsection ul li a:hover, #active {
+        background: #3EB095;
+        color: #333;
+    }
+    .maincontent, .sidebar {
+        background: #3EB095 none repeat scroll 0 0;
+        border: 1px solid #3CB1F6;
+    }
+    .samepost h2 a {
+        color: #fff;
+    }
+    .samepost img {
+        border: 1px solid #3CB1F6;
+    }
+    .contentsection {
+        border: 1px solid #3CB1F6;
+    }
+    .samesidebar h2 {
+        background: #40AF94 none repeat scroll 0 0;
+        border-bottom: 2px solid #e0d6c7;
+        color: #fff;
+    }
+    .samesidebar ul li {
+        border-bottom: 1px dashed #e0d6c7;
+    }
+    .samesidebar ul li a {
+        color: #fff;
+    }
+    .samepost h4 a, .about h4 a {
+    color: #fff;
+    }
+    .readmore a {
+        border: 1px solid #e0d6c7;
+        color: #333;
+    }
+    .readmore a:hover {
+        color: #3CB1F6;
+    }
+    .popular h3 {
+        border-bottom: 1px dashed #e0d6c7;
+    }
+    .popular img {
+        background: #fff none repeat scroll 0 0;
+        border: 1px solid #3CB1F6;
+    }
+    .pagination a {
+        background: #fff none repeat scroll 0 0;
+        border: 1px solid #3CB1F6;
+        color: #3CB1A8;
+    }
+    .pagination a:hover {
+        background: #46AFCC none repeat scroll 0 0;
+        color: #fff;
+    }
+    .footermenu ul li a {
+        color: #ffffff;
+    }
+
+    /*Others Pages*/
+    .samepost h2, .about h2 {
+        color: #fff;
+    }
+    .about img {
+        border: 1px solid #3CB1F6;
+    }
+    .relatedpost h2 {
+        background: #3CB584 none repeat scroll 0 0;
+        border-bottom: 2px solid #3CB1F6 !important;
+        color: #fff !important;
+    }
+		/* Sky Color */
